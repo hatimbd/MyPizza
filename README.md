@@ -17,9 +17,7 @@
   <img src="screenshots/signup.png" alt="Signup Screenshot" width="180"/>
   <img src="screenshots/login.png" alt="Login Screenshot" width="180"/>
 </p>
-
 ---
-
 ##### Gestion des Commandes : 
 
 - Passer une commande en quelques clics  
@@ -31,24 +29,18 @@
   <img src="screenshots/order.png" alt="Order Screenshot" width="180"/>
   <img src="screenshots/history.png" alt="History Screenshot" width="180"/>
 </p>
-
 ---
-
 ### 🛠️ Technologies Utilisées
 
 - **SwiftUI** pour l’interface utilisateur
 - **REST API** pour la communication avec le backend
 - **Token-based Authentication** pour la sécurité
-
 ---
-
 ### 💻 Prérequis
 
 - Un **Mac** avec **Xcode** installé (version recommandée : Xcode 15+)
 - Un compte développeur Apple pour tester sur un appareil réel
-
 ---
-
 ### 📁 Installation
 1. Clone the repository:
    ```bash  
