@@ -14,8 +14,8 @@
 📸 *Aperçu :*
 
 <p align="center">
-  <img src="screenshots/signup.png" alt="Signup Screenshot" width="300"/>
-  <img src="screenshots/login.png" alt="Login Screenshot" width="300"/>
+  <img src="screenshots/signup.png" alt="Signup Screenshot" width="200"/>
+  <img src="screenshots/login.png" alt="Login Screenshot" width="200"/>
 </p>
 
 ---
@@ -28,8 +28,8 @@
 📸 *Aperçu :*
 
 <p align="center">
-  <img src="screenshots/order.png" alt="Order Screenshot" width="300"/>
-  <img src="screenshots/history.png" alt="History Screenshot" width="300"/>
+  <img src="screenshots/order.png" alt="Order Screenshot" width="200"/>
+  <img src="screenshots/history.png" alt="History Screenshot" width="200"/>
 </p>
 
 ---
