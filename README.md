@@ -1,12 +1,12 @@
-# 🍕 MyPizza
+## 🍕 MyPizza
 
 **MyPizza** est une application mobile iOS permettant de commander des pizzas facilement et rapidement. Développée en **SwiftUI** avec une architecture basée sur **REST API**, elle offre une expérience fluide et moderne pour les amateurs de pizza.
 
 ---
 
-## 🚀 Fonctionnalités Principales
+### 🚀 Fonctionnalités Principales
 
-## 🔐 Authentification Utilisateur
+### 🔐 Authentification Utilisateur
 
 - Création de compte avec email et mot de passe  
 - Connexion sécurisée avec stockage du token d’authentification
@@ -20,7 +20,7 @@
 
 ---
 
-## 📦 Gestion des Commandes
+### 📦 Gestion des Commandes
 
 - Passer une commande en quelques clics  
 - Consulter l’historique des commandes avec tous les détails
@@ -34,7 +34,7 @@
 
 ---
 
-## 🛠️ Technologies Utilisées
+### 🛠️ Technologies Utilisées
 
 - **SwiftUI** pour l’interface utilisateur
 - **REST API** pour la communication avec le backend
@@ -42,14 +42,14 @@
 
 ---
 
-## 💻 Prérequis
+### 💻 Prérequis
 
 - Un **Mac** avec **Xcode** installé (version recommandée : Xcode 15+)
 - Un compte développeur Apple pour tester sur un appareil réel
 
 ---
 
-## 📁 Installation
+### 📁 Installation
 1. Clone the repository:
    ```bash  
    git clone https://github.com/hatimbd/MyPizza.git
