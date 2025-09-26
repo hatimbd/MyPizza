@@ -6,12 +6,12 @@
 
 ### 🚀 Fonctionnalités Principales
 
-#### 🔐 Authentification Utilisateur
+##### Authentification Utilisateur : 
 
 - Création de compte avec email et mot de passe  
 - Connexion sécurisée avec stockage du token d’authentification
 
-📸 *Aperçu :*
+*Aperçu :*
 
 <p align="center">
   <img src="screenshots/signup.png" alt="Signup Screenshot" width="180"/>
@@ -20,12 +20,12 @@
 
 ---
 
-#### 📦 Gestion des Commandes
+##### Gestion des Commandes : 
 
 - Passer une commande en quelques clics  
 - Consulter l’historique des commandes avec tous les détails
 
-📸 *Aperçu :*
+*Aperçu :*
 
 <p align="center">
   <img src="screenshots/order.png" alt="Order Screenshot" width="180"/>
