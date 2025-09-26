@@ -52,6 +52,6 @@
 ## 📁 Installation
 
 ```bash
-git clone https://github.com/tonpseudo/MyPizza.git
+git clone https://github.com/hatimbd/MyPizza.git
 cd MyPizza
 open MyPizza.xcodeproj
