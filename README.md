@@ -14,8 +14,8 @@
 📸 *Aperçu :*
 
 <p align="center">
-  <img src="screenshots/signup.png" alt="Signup Screenshot" width="200"/>
-  <img src="screenshots/login.png" alt="Login Screenshot" width="200"/>
+  <img src="screenshots/signup.png" alt="Signup Screenshot" width="100"/>
+  <img src="screenshots/login.png" alt="Login Screenshot" width="100"/>
 </p>
 
 ---
@@ -28,8 +28,8 @@
 📸 *Aperçu :*
 
 <p align="center">
-  <img src="screenshots/order.png" alt="Order Screenshot" width="200"/>
-  <img src="screenshots/history.png" alt="History Screenshot" width="200"/>
+  <img src="screenshots/order.png" alt="Order Screenshot" width="100"/>
+  <img src="screenshots/history.png" alt="History Screenshot" width="100"/>
 </p>
 
 ---
@@ -50,8 +50,10 @@
 ---
 
 ## 📁 Installation
-
-```bash
-git clone https://github.com/hatimbd/MyPizza.git
-cd MyPizza
-open MyPizza.xcodeproj
+1. Clone the repository:
+   ```bash  
+   git clone https://github.com/hatimbd/MyPizza.git
+    ```
+2. Ouvrez le projet dans **Xcode**.
+3. Exécutez l’application sur un **simulateur iOS** ou un **appareil physique**.  
+4. Lancez l’application et **créez un nouveau compte** pour vous connecter et commencer à passer des commandes.
